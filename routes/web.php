@@ -19,4 +19,5 @@ Route::get('/', function () {
 
 Route::get('/characters', function () {
     return view('pages.characters');
-});
+})->name('products_display');
+
