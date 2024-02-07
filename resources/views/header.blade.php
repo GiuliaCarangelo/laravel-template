@@ -7,7 +7,7 @@
         <img src=" {{ Vite::asset('./public/images/dc-logo.png') }} " alt="DC Main Logo">
         <ul class="text-uppercase list-unstyled" style="list-style-type:none; display: inline-block; text-transform: uppercase;">
             <li style="display: inline-block;">
-                <a href="{{ route('./pages/characters') }}">characters</a>
+                <a href="#">characters</a>
             </li>
             <li style="display: inline-block;">
                 <a href="#">comics</a>
