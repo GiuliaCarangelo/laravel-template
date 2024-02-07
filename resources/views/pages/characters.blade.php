@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
 @section('main-content')
-@yield('partials.header');
+@yield('partials.header')
     <h1 class="text-center pt-4">
-        chars
+        Characters 
     </h1>
-    @yield('partials.footer');
+    @yield('partials.footer')
 @endsection
